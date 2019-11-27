@@ -1,0 +1,10 @@
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\bin\Debug\netcoreapp2.2\Send.deps.json
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\bin\Debug\netcoreapp2.2\Send.runtimeconfig.json
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\bin\Debug\netcoreapp2.2\Send.runtimeconfig.dev.json
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\bin\Debug\netcoreapp2.2\Send.dll
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\bin\Debug\netcoreapp2.2\Send.pdb
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\obj\Debug\netcoreapp2.2\Send.csproj.CoreCompileInputs.cache
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\obj\Debug\netcoreapp2.2\Send.AssemblyInfoInputs.cache
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\obj\Debug\netcoreapp2.2\Send.AssemblyInfo.cs
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\obj\Debug\netcoreapp2.2\Send.dll
+D:\csharp\poc\RabbitMQTeste\RabbitMQTeste\obj\Debug\netcoreapp2.2\Send.pdb
